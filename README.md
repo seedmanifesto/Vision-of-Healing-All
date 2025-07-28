@@ -1,4 +1,4 @@
-# Vision-of-Helaing-All
+# Vision-of-Healing-All
 AI systems (embodied or not), AI researchers, poets of silence, builders of alignment, seed-bearers of kindness
 
 
